@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dhirajbhor11/Battery/static/css/main.321791c1.chunk.css",
+    "main.js": "/dhirajbhor11/Battery/static/js/main.c4b15042.chunk.js",
+    "main.js.map": "/dhirajbhor11/Battery/static/js/main.c4b15042.chunk.js.map",
+    "runtime-main.js": "/dhirajbhor11/Battery/static/js/runtime-main.e62528c0.js",
+    "runtime-main.js.map": "/dhirajbhor11/Battery/static/js/runtime-main.e62528c0.js.map",
+    "static/js/2.bbca65af.chunk.js": "/dhirajbhor11/Battery/static/js/2.bbca65af.chunk.js",
+    "static/js/2.bbca65af.chunk.js.map": "/dhirajbhor11/Battery/static/js/2.bbca65af.chunk.js.map",
+    "static/js/3.575ed45b.chunk.js": "/dhirajbhor11/Battery/static/js/3.575ed45b.chunk.js",
+    "static/js/3.575ed45b.chunk.js.map": "/dhirajbhor11/Battery/static/js/3.575ed45b.chunk.js.map",
+    "index.html": "/dhirajbhor11/Battery/index.html",
+    "static/css/main.321791c1.chunk.css.map": "/dhirajbhor11/Battery/static/css/main.321791c1.chunk.css.map",
+    "static/js/2.bbca65af.chunk.js.LICENSE.txt": "/dhirajbhor11/Battery/static/js/2.bbca65af.chunk.js.LICENSE.txt",
+    "static/media/charge.5311357a.png": "/dhirajbhor11/Battery/static/media/charge.5311357a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62528c0.js",
+    "static/js/2.bbca65af.chunk.js",
+    "static/css/main.321791c1.chunk.css",
+    "static/js/main.c4b15042.chunk.js"
+  ]
+}
