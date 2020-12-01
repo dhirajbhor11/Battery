@@ -1,0 +1,14 @@
+.lastChargingTime {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lastChargingTime h1 {
+  display: flex;
+}
+
+.otherInfo {
+  display: flex;
+  flex-flow: row;
+}

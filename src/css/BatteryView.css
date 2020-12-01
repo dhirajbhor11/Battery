@@ -1,0 +1,69 @@
+.inBatteryView {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.logoView {
+  display: flex;
+  height: 70vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.batterySymbol {
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  height: 55vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.upperCell {
+  height: 20px;
+  /* background-color: rgb(241, 241, 241); */
+  width: 20%;
+  border-radius: 2mm;
+  border: 0.1mm solid silver;
+  border-bottom: 0cm;
+  z-index: 2;
+  margin-top: -89px;
+}
+.downCell {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.batteryProgress {
+  position: absolute;
+  height: 400px;
+  width: 100%;
+  transform: rotate(270deg);
+  z-index: 0;
+}
+
+.chargeLogo {
+  width: 280px;
+  margin-top: 50px;
+  position: relative;
+}
+
+.info {
+  height: 30vh;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+.chargedAmount {
+  font-weight: 500;
+  font-size: 12ch;
+}
+.cAmount {
+  font-size: 10ch;
+}
